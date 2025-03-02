@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Foody",
+    "\\Foody.EntityLayer",
+    "\\Foody\\Foody.BusinessLayer",
+    "\\Foody\\Foody.DataAccessLayer",
+    "\\Foody\\Foody.EntityLayer",
+    "\\Foody\\Foody.PresentationLayer"
+  ],
+  "SelectedNode": "\\Foody\\Foody.sln",
+  "PreviewInSolutionExplorer": false
+}
